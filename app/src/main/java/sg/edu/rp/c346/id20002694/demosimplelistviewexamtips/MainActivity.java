@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView lvExamTips;
     String[] examTipsArray;
+    //clement kwa 20002694
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
